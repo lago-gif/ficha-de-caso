@@ -54,3 +54,4 @@ Cada resultado del workshop deja un enlace que puedes compartir. Envía tus enla
 ## Si no pudiste estar en vivo
 
 Sigue los ejercicios paso a paso. Cada uno incluye una variante asíncrona para hacerlo a tu ritmo, y los enlaces de evidencia funcionan igual después del jueves 5 de noviembre.
+ 
